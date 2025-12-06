@@ -18,6 +18,26 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agrasenrai&theme=algolia&margin-w=10&margin-h=10&column=6" />
+</p>
+
+---
+
+### 📈 Stats & Graphs
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 **Languages**
