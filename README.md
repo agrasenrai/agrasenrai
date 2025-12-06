@@ -132,17 +132,3 @@
 
 ---
 
-### 📈 GitHub Goodies (Optional Sections for Your Profile)
-
-You can uncomment / edit these blocks based on your GitHub username.
-
-```html
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrasenrai&show_icons=true&theme=transparent" alt="Agrasen's GitHub stats" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrasenrai&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
