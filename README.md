@@ -34,20 +34,13 @@
 </p>
 
 ---
-### 📈 GitHub Activity Overview
+---
+
+### 📊 Activity Overview
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrasenrai&theme=tokyonight" />
-  <br><br>
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=agrasenrai&show_icons=true&theme=tokyonight" />
-  <br><br>
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrasenrai&layout=compact&theme=tokyonight" />
-  <br><br>
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrasenrai&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrasenrai&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 
