@@ -36,12 +36,6 @@
 ---
 ---
 
-### 📊 Activity Overview
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrasenrai&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
 
 
 ### 🛠 Tech Stack & Tools
